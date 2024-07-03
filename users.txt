@@ -1,4 +1,0 @@
-Bakare;sudo,dev,www-data
-Rasheed;sudo
-Abiola;dev,www-data
-
